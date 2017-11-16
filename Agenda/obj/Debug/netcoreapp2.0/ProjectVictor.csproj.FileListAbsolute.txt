@@ -1,0 +1,11 @@
+C:\Users\setzer\source\repos\Project Victor\Project Victor\bin\Debug\netcoreapp2.0\ProjectVictor.deps.json
+C:\Users\setzer\source\repos\Project Victor\Project Victor\bin\Debug\netcoreapp2.0\ProjectVictor.runtimeconfig.json
+C:\Users\setzer\source\repos\Project Victor\Project Victor\bin\Debug\netcoreapp2.0\ProjectVictor.runtimeconfig.dev.json
+C:\Users\setzer\source\repos\Project Victor\Project Victor\bin\Debug\netcoreapp2.0\ProjectVictor.dll
+C:\Users\setzer\source\repos\Project Victor\Project Victor\bin\Debug\netcoreapp2.0\ProjectVictor.pdb
+C:\Users\setzer\source\repos\Project Victor\Project Victor\obj\Debug\netcoreapp2.0\ProjectVictor.csproj.CoreCompileInputs.cache
+C:\Users\setzer\source\repos\Project Victor\Project Victor\obj\Debug\netcoreapp2.0\ProjectVictor.AssemblyInfoInputs.cache
+C:\Users\setzer\source\repos\Project Victor\Project Victor\obj\Debug\netcoreapp2.0\ProjectVictor.AssemblyInfo.cs
+C:\Users\setzer\source\repos\Project Victor\Project Victor\obj\Debug\netcoreapp2.0\ProjectVictor.dll
+C:\Users\setzer\source\repos\Project Victor\Project Victor\obj\Debug\netcoreapp2.0\ProjectVictor.pdb
+C:\Users\setzer\source\repos\Project Victor\Project Victor\obj\Debug\netcoreapp2.0\ProjectVictor.csprojResolveAssemblyReference.cache

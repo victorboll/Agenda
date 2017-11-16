@@ -1,0 +1,10 @@
+C:\Users\setzer\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.0\ProjectVictor.deps.json
+C:\Users\setzer\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.0\ProjectVictor.runtimeconfig.json
+C:\Users\setzer\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.0\ProjectVictor.runtimeconfig.dev.json
+C:\Users\setzer\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.0\ProjectVictor.dll
+C:\Users\setzer\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.0\ProjectVictor.pdb
+C:\Users\setzer\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\setzer\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\setzer\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfo.cs
+C:\Users\setzer\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.0\ProjectVictor.dll
+C:\Users\setzer\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.0\ProjectVictor.pdb
